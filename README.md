@@ -1,4 +1,4 @@
-[![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/n4z4v0d)](https://t.me/n4z4v0d)
+[![Telegram channel]([https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master](https://img.shields.io/badge/telegram-channel-blue)?url=https://t.me/n4z4v0d)](https://t.me/n4z4v0d)
 [![works badge](https://cdn.jsdelivr.net/gh/nikku/works-on-my-machine@v0.2.0/badge.svg)](https://github.com/nikku/works-on-my-machine)
 
 # Initia Checker
