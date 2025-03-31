@@ -1,6 +1,6 @@
 [![works badge](https://cdn.jsdelivr.net/gh/nikku/works-on-my-machine@v0.2.0/badge.svg)](https://github.com/nikku/works-on-my-machine)
-[![Telegram channel](https://img.shields.io/badge/telegram-channel-blue?url=https://t.me/n4z4v0d)](https://t.me/n4z4v0d)
-[![proxy](https://img.shields.io/badge/proxy-shard-green?url=https://proxyshard.com/?ref=NAZAVOD)](https://proxyshard.com/?ref=NAZAVOD)
+[![Telegram channel](https://img.shields.io/badge/telegram-channel-blue?url=https://t.me/n4z4v0d&logo=telegram)](https://t.me/n4z4v0d)
+[![proxy](https://img.shields.io/badge/proxy-shard-darkgreen?url=https://proxyshard.com/?ref=NAZAVOD&logo=springsecurity)](https://proxyshard.com/?ref=NAZAVOD)
 
 # Initia Checker
 
